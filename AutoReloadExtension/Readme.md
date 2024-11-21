@@ -42,15 +42,15 @@ A minimalistic Chrome extension that automatically reloads the active tab at use
 
 ### Start Screen
 
-![Start Screen](#start.png)
+![Start Screen](./images/start.png)
 
 ### Active Timer
 
-![Active Timer](#badge.png)
+![Active Timer](./images/badge.png)
 
 ### Stop Screen
 
-![Stop Screen](#stop.png)
+![Stop Screen](./images/stop.png)
 
 ---
 
